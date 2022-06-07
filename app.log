@@ -1,0 +1,702 @@
+2022-06-07 08:20:49.184 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 50902 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 08:20:49.187 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 08:20:49.839 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-07 08:20:49.839 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 08:20:49.839 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 08:20:49.901 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 08:20:50.564 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8080"]
+2022-06-07 08:20:50.569 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Pausing ProtocolHandler ["http-nio-8080"]
+2022-06-07 08:20:50.569 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Stopping service [Tomcat]
+2022-06-07 08:20:50.573 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Stopping ProtocolHandler ["http-nio-8080"]
+2022-06-07 08:20:50.573 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Destroying ProtocolHandler ["http-nio-8080"]
+2022-06-07 08:20:50.586 [ERROR] [main]
+                [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter:40] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2022-06-07 08:21:10.211 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 50904 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 08:21:10.212 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 08:21:10.808 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:21:10.809 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 08:21:10.809 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 08:21:10.854 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 08:21:11.479 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:21:11.491 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.538 seconds (JVM running for 1.745)
+2022-06-07 08:21:21.555 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 08:23:40.346 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 50927 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 08:23:40.348 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 08:23:40.931 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:23:40.931 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 08:23:40.931 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 08:23:40.975 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 08:23:41.580 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:23:41.592 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.679 seconds (JVM running for 1.883)
+2022-06-07 08:24:13.708 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 08:25:28.586 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 50938 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 08:25:28.587 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 08:25:29.166 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:25:29.167 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 08:25:29.167 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 08:25:29.212 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 08:25:29.818 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:25:29.831 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.465 seconds (JVM running for 1.65)
+2022-06-07 08:25:44.451 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 08:28:29.297 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 50954 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 08:28:29.298 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 08:28:29.863 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:28:29.863 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 08:28:29.863 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 08:28:29.906 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 08:28:30.501 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:28:30.516 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.566 seconds (JVM running for 1.737)
+2022-06-07 08:28:36.057 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 08:29:52.125 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 50960 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 08:29:52.127 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 08:29:52.679 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:29:52.680 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 08:29:52.680 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 08:29:52.723 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 08:29:53.328 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:29:53.346 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.442 seconds (JVM running for 1.609)
+2022-06-07 08:29:59.463 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 08:33:59.035 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 51023 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 08:33:59.036 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 08:33:59.626 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:33:59.627 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 08:33:59.627 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 08:33:59.690 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 08:34:00.300 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:34:00.322 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.645 seconds (JVM running for 1.827)
+2022-06-07 08:34:07.199 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 08:38:38.612 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 51049 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 08:38:38.613 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 08:38:39.211 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:38:39.211 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 08:38:39.211 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 08:38:39.256 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 08:38:39.897 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:38:39.909 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.652 seconds (JVM running for 1.873)
+2022-06-07 08:38:49.744 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 08:39:35.116 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 51058 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 08:39:35.117 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 08:39:35.680 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:39:35.681 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 08:39:35.681 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 08:39:35.722 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 08:39:36.344 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:39:36.356 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.462 seconds (JVM running for 1.652)
+2022-06-07 08:39:40.483 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 08:39:45.656 [INFO] [http-nio-8081-exec-3]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 08:42:43.934 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 51100 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 08:42:43.935 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 08:42:44.514 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:42:44.515 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 08:42:44.515 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 08:42:44.554 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 08:42:45.177 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:42:45.191 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.719 seconds (JVM running for 1.93)
+2022-06-07 08:42:53.383 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 08:43:01.640 [INFO] [http-nio-8081-exec-5]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 08:43:24.675 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 51111 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 08:43:24.676 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 08:43:25.253 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:43:25.253 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 08:43:25.253 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 08:43:25.296 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 08:43:25.906 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 08:43:25.918 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.476 seconds (JVM running for 1.659)
+2022-06-07 08:43:29.621 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 08:43:35.277 [INFO] [http-nio-8081-exec-4]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 08:44:28.888 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:55] Starting AppControllerTest using Java 18.0.1.1 on Feis-MacBook-Pro.local with PID 51192 (started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 08:44:28.890 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 08:44:30.399 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:61] Started AppControllerTest in 1.711 seconds (JVM running for 2.186)
+2022-06-07 08:44:32.824 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query NONHEAP_MEM_UTIL
+2022-06-07 08:44:36.047 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query GC_TIMES
+2022-06-07 08:44:37.077 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query GC_TIMES
+2022-06-07 08:44:38.090 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query Nonsense
+2022-06-07 09:57:24.590 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:55] Starting AppControllerTest using Java 18 on Feis-MacBook-Pro.local with PID 51865 (started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 09:57:24.591 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 09:57:25.990 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:61] Started AppControllerTest in 1.656 seconds (JVM running for 2.135)
+2022-06-07 09:57:28.367 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query NONHEAP_MEM_UTIL
+2022-06-07 09:57:31.630 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query GC_TIMES
+2022-06-07 09:57:32.676 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query GC_TIMES
+2022-06-07 09:57:33.691 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query Nonsense
+2022-06-07 09:57:37.864 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 51870 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 09:57:37.865 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 09:57:38.450 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-07 09:57:38.450 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 09:57:38.450 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 09:57:38.493 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 09:57:39.119 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8080"]
+2022-06-07 09:57:39.124 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Pausing ProtocolHandler ["http-nio-8080"]
+2022-06-07 09:57:39.124 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Stopping service [Tomcat]
+2022-06-07 09:57:39.126 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Stopping ProtocolHandler ["http-nio-8080"]
+2022-06-07 09:57:39.126 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Destroying ProtocolHandler ["http-nio-8080"]
+2022-06-07 09:57:39.142 [ERROR] [main]
+                [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter:40] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2022-06-07 09:57:48.045 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 51872 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 09:57:48.047 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 09:57:48.634 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8082"]
+2022-06-07 09:57:48.635 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 09:57:48.635 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 09:57:48.684 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 09:57:49.361 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8082"]
+2022-06-07 09:57:49.373 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.573 seconds (JVM running for 1.747)
+2022-06-07 09:58:00.706 [INFO] [http-nio-8082-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 09:58:09.675 [INFO] [http-nio-8082-exec-7]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 09:58:48.773 [INFO] [http-nio-8082-exec-6]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query MEM_CPU
+2022-06-07 09:58:50.682 [INFO] [http-nio-8082-exec-7]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query MEM_CPU
+2022-06-07 09:59:00.400 [INFO] [http-nio-8082-exec-2]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU
+2022-06-07 09:59:04.490 [INFO] [http-nio-8082-exec-6]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 09:59:05.171 [INFO] [http-nio-8082-exec-7]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 10:04:54.258 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:55] Starting AppControllerTest using Java 18.0.1.1 on Feis-MacBook-Pro.local with PID 51983 (started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 10:04:54.259 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 10:04:55.665 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:61] Started AppControllerTest in 1.745 seconds (JVM running for 2.176)
+2022-06-07 10:04:58.041 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query NONHEAP_MEM_UTIL
+2022-06-07 10:05:01.231 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query GC_TIMES
+2022-06-07 10:05:02.266 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query GC_TIMES
+2022-06-07 10:05:03.286 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query Nonsense
+2022-06-07 10:28:04.701 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:55] Starting AppControllerTest using Java 18.0.1.1 on Feis-MacBook-Pro.local with PID 52419 (started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 10:28:04.702 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 10:28:06.048 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:61] Started AppControllerTest in 1.747 seconds (JVM running for 2.189)
+2022-06-07 10:28:08.444 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query NONHEAP_MEM_UTIL
+2022-06-07 10:28:11.647 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query GC_TIMES
+2022-06-07 10:28:12.677 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query GC_TIMES
+2022-06-07 10:28:13.697 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query Nonsense
+2022-06-07 10:56:00.805 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 52650 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 10:56:00.807 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 10:56:01.433 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8082"]
+2022-06-07 10:56:01.434 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 10:56:01.434 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 10:56:01.487 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 10:56:02.174 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8082"]
+2022-06-07 10:56:02.179 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Pausing ProtocolHandler ["http-nio-8082"]
+2022-06-07 10:56:02.179 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Stopping service [Tomcat]
+2022-06-07 10:56:02.181 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Stopping ProtocolHandler ["http-nio-8082"]
+2022-06-07 10:56:02.182 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Destroying ProtocolHandler ["http-nio-8082"]
+2022-06-07 10:56:02.194 [ERROR] [main]
+                [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter:40] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8082 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8082 or configure this application to listen on another port.
+
+2022-06-07 10:56:20.570 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 52655 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 10:56:20.571 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 10:56:21.163 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-07 10:56:21.163 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 10:56:21.163 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 10:56:21.218 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 10:56:21.890 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8080"]
+2022-06-07 10:56:21.894 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Pausing ProtocolHandler ["http-nio-8080"]
+2022-06-07 10:56:21.895 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Stopping service [Tomcat]
+2022-06-07 10:56:21.897 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Stopping ProtocolHandler ["http-nio-8080"]
+2022-06-07 10:56:21.897 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Destroying ProtocolHandler ["http-nio-8080"]
+2022-06-07 10:56:21.911 [ERROR] [main]
+                [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter:40] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2022-06-07 10:56:31.244 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 52658 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 10:56:31.245 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 10:56:31.819 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 10:56:31.819 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 10:56:31.819 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 10:56:31.862 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 10:56:32.465 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 10:56:32.481 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.469 seconds (JVM running for 1.647)
+2022-06-07 10:56:47.308 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 10:56:53.880 [INFO] [http-nio-8081-exec-7]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 10:57:17.928 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 52668 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 10:57:17.929 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 10:57:18.566 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 10:57:18.567 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 10:57:18.567 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 10:57:18.619 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 10:57:19.276 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 10:57:19.287 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.623 seconds (JVM running for 1.828)
+2022-06-07 10:57:23.814 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 10:57:30.815 [INFO] [http-nio-8081-exec-6]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_
+2022-06-07 11:06:16.099 [INFO] [http-nio-8081-exec-4]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_
+2022-06-07 11:06:50.502 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 52803 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 11:06:50.504 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 11:06:51.054 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:06:51.054 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 11:06:51.054 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 11:06:51.091 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 11:06:51.701 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:06:51.713 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.656 seconds (JVM running for 1.827)
+2022-06-07 11:07:06.162 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 11:07:15.973 [INFO] [http-nio-8081-exec-9]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 11:07:58.435 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 52810 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 11:07:58.437 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 11:07:59.020 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:07:59.021 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 11:07:59.021 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 11:07:59.063 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 11:07:59.696 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:07:59.709 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.516 seconds (JVM running for 1.694)
+2022-06-07 11:08:07.753 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 11:08:14.958 [INFO] [http-nio-8081-exec-7]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 11:25:03.321 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 52930 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 11:25:03.323 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 11:25:03.915 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:25:03.915 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 11:25:03.915 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 11:25:03.962 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 11:25:04.643 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:25:04.657 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.766 seconds (JVM running for 1.971)
+2022-06-07 11:25:10.430 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 11:25:16.853 [INFO] [http-nio-8081-exec-7]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 11:25:59.312 [INFO] [http-nio-8081-exec-8]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 11:27:14.860 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 52939 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 11:27:14.861 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 11:27:15.428 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:27:15.429 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 11:27:15.429 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 11:27:15.469 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 11:27:16.127 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:27:16.140 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.658 seconds (JVM running for 1.839)
+2022-06-07 11:27:18.737 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 11:27:24.940 [INFO] [http-nio-8081-exec-4]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 11:27:44.185 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 52946 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 11:27:44.187 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 11:27:44.770 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:27:44.771 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 11:27:44.771 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 11:27:44.819 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 11:27:45.461 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:27:45.473 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.517 seconds (JVM running for 1.683)
+2022-06-07 11:27:51.116 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 11:27:58.976 [INFO] [http-nio-8081-exec-10]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 11:29:11.478 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 52956 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 11:29:11.479 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 11:29:12.059 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:29:12.060 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 11:29:12.060 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 11:29:12.102 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 11:29:12.721 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:29:12.732 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.495 seconds (JVM running for 1.662)
+2022-06-07 11:29:17.399 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 11:29:23.936 [INFO] [http-nio-8081-exec-6]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 11:29:42.617 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 52964 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 11:29:42.620 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 11:29:43.200 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:29:43.200 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 11:29:43.200 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 11:29:43.245 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 11:29:43.898 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:29:43.910 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.514 seconds (JVM running for 1.68)
+2022-06-07 11:29:46.248 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 11:29:49.977 [INFO] [http-nio-8081-exec-3]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query cpu
+2022-06-07 11:31:04.212 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 52978 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 11:31:04.214 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 11:31:04.789 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:31:04.790 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 11:31:04.790 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 11:31:04.831 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 11:31:05.455 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8081"]
+2022-06-07 11:31:05.466 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.507 seconds (JVM running for 1.716)
+2022-06-07 11:31:10.201 [INFO] [http-nio-8081-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 11:31:15.761 [INFO] [http-nio-8081-exec-5]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 11:31:50.023 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:55] Starting AppControllerTest using Java 18 on Feis-MacBook-Pro.local with PID 52986 (started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 11:31:50.024 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 11:31:51.330 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:61] Started AppControllerTest in 1.617 seconds (JVM running for 2.145)
+2022-06-07 11:32:04.279 [INFO] [http-nio-8081-exec-10]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_UTIL
+2022-06-07 11:33:44.343 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:55] Starting AppControllerTest using Java 18.0.1.1 on Feis-MacBook-Pro.local with PID 53031 (started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 11:33:44.344 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 11:33:45.691 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:61] Started AppControllerTest in 1.525 seconds (JVM running for 1.96)
+2022-06-07 11:33:48.105 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query NONHEAP_MEM_UTIL
+2022-06-07 11:33:51.331 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query GC_TIMES
+2022-06-07 11:33:52.364 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query GC_TIMES
+2022-06-07 11:33:53.404 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query Nonsense
+2022-06-07 11:44:21.294 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:55] Starting AppControllerTest using Java 18.0.1.1 on Feis-MacBook-Pro.local with PID 53413 (started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 11:44:21.295 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 11:44:22.714 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:61] Started AppControllerTest in 1.794 seconds (JVM running for 2.229)
+2022-06-07 11:44:25.129 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query NONHEAP_MEM_UTIL
+2022-06-07 11:44:28.378 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query GC_TIMES
+2022-06-07 11:44:29.453 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query GC_TIMES
+2022-06-07 11:44:30.492 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query Nonsense
+2022-06-07 14:11:47.447 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:55] Starting MetricSearchApp using Java 18 on Feis-MacBook-Pro.local with PID 54074 (/Users/feishen/IdeaProjects/SpringElasticsearch/target/classes started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 14:11:47.449 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 14:11:48.037 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-07 14:11:48.037 [INFO] [main]
+                [org.apache.catalina.core.StandardService:173] Starting service [Tomcat]
+2022-06-07 14:11:48.037 [INFO] [main]
+                [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 14:11:48.097 [INFO] [main]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext
+2022-06-07 14:11:48.748 [INFO] [main]
+                [org.apache.coyote.http11.Http11NioProtocol:173] Starting ProtocolHandler ["http-nio-8080"]
+2022-06-07 14:11:48.762 [INFO] [main]
+                [org.example.elasticsearch.MetricSearchApp:61] Started MetricSearchApp in 1.691 seconds (JVM running for 1.911)
+2022-06-07 14:11:58.626 [INFO] [http-nio-8080-exec-1]
+                [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-07 14:11:58.652 [INFO] [http-nio-8080-exec-1]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 14:12:16.206 [INFO] [http-nio-8080-exec-9]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 14:12:21.546 [INFO] [http-nio-8080-exec-2]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_UTIL
+2022-06-07 14:12:22.833 [INFO] [http-nio-8080-exec-3]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_UTIL
+2022-06-07 14:12:55.373 [INFO] [http-nio-8080-exec-9]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query CPU_NUM
+2022-06-07 14:14:22.412 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:55] Starting AppControllerTest using Java 18.0.1.1 on Feis-MacBook-Pro.local with PID 54161 (started by feishen in /Users/feishen/IdeaProjects/SpringElasticsearch)
+2022-06-07 14:14:22.413 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:634] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 14:14:23.815 [INFO] [main]
+                [org.example.elasticsearch.AppControllerTest:61] Started AppControllerTest in 1.817 seconds (JVM running for 2.325)
+2022-06-07 14:14:26.221 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query NONHEAP_MEM_UTIL
+2022-06-07 14:14:29.562 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query GC_TIMES
+2022-06-07 14:14:30.611 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query GC_TIMES
+2022-06-07 14:14:31.647 [INFO] [main]
+                [org.example.elasticsearch.service.MetricSearchService:80] Search with query Nonsense

@@ -1,0 +1,5 @@
+[
+{"name":"CPU_UTIL","stats":"AVG", "desc": "CPU Time"},
+  {"name":"MEM_UTIL","stats":"AVG", "desc": "Memory utilization"},
+  {"name":"DISK_UTIL","stats":"AVG", "desc": "disk utilization"}
+]

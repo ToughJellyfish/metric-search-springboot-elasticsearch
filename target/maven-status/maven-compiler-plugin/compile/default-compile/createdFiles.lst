@@ -1,0 +1,9 @@
+org/example/elasticsearch/service/MetricSearchService.class
+org/example/elasticsearch/config/Config.class
+org/example/elasticsearch/repositories/MetricRepository.class
+org/example/elasticsearch/controller/UIController$STATS.class
+org/example/elasticsearch/service/SearchService.class
+org/example/elasticsearch/model/Metric.class
+org/example/elasticsearch/controller/AppController.class
+org/example/elasticsearch/controller/UIController.class
+org/example/elasticsearch/MetricSearchApp.class

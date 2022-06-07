@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="ISO-8859-1">
+    <title>Registration Success</title>
+    <style type="text/css">
+    span {
+        display: inline-block;
+        width: 200px;
+        text-align: left;
+    }
+</style>
+</head>
+<body>
+<div align="center">
+    <h2>Registration Succeeded!</h2>
+    <span>Metric name:</span><span th:text="${metric.name}"></span><br/>
+    <span>Metric Internal ID:</span><span th:text="${metric.id}"></span><br/>
+    <span>Stats:</span><span th:text="${metric.stats}"></span><br/>
+    <span>Description:</span><span th:text="${metric.desc}"></span><br/>
+</div>
+</body>
+</html>
