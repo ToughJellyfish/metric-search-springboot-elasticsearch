@@ -1,9 +1,13 @@
 # metric-search-springboot-elasticsearch
 This is a search app using springboot elasticsearch. The supported data are infrastructure performance metric data. 
 Supported field:
+
 "name": metric name
+
 "stats": metric aggregation statistics
+
 "desc": metric description
+
 Sample data:
 
 ```{"name":"DISK_UTIL","stats":"AVG", "desc": "disk utilization"}```
@@ -11,7 +15,9 @@ Sample data:
 
 ### Prerequisites:
 Elasticsearch cluster 7.0.0 and up
+
 Docker
+
 kubectl
 
 
